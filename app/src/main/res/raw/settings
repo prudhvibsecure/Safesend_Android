@@ -1,0 +1,160 @@
+
+Bsecure email pvt.ltd safesend app services
+======================================================================================
+
+registration = https://sendsafe.com.au/mobileapp/bsec_mail/signup/register
+
+webregister=https://sendsafe.com.au/pradeepsirworks/register/mobilepayment
+
+addPin = https://sendsafe.com.au/mobileapp/bsec_mail/signup/pin
+
+login=https://sendsafe.com.au/mobileapp/bsec_mail/signin/login
+
+login1=https://sendsafe.com.au/mobileapp/bsec_mail/signin/pin
+
+pwdrecover = https://sendsafe.com.au/mobileapp/bsec_mail/signin/pwdrecover
+
+ispin = https://sendsafe.com.au/mobileapp/recovery/recoverpin?email=(EMAIL)
+
+getmaillist = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/mails
+
+getsentmaillist = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/sent
+
+getdraftmaillist = https://sendsafe.com.au/mobileapp/bsec_mail/draft/details
+
+gettrashmaillist = https://sendsafe.com.au/mobileapp/bsec_mail/trash/details
+
+compose_v_m_p =https://sendsafe.com.au/mobileapp/bsec_mail/inbox/message
+
+compose_mail = https://sendsafe.com.au/mobileapp/compose/composemsg_v25/
+
+inboxTotrash = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/trash
+
+sentTotrash = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/trash
+
+draftsTotrash = https://sendsafe.com.au/mobileapp/bsec_mail/draft/trash
+
+removeMailFromTrash = https://sendsafe.com.au/mobileapp/bsec_mail/trash/trash
+
+moveMailFromTrash = https://sendsafe.com.au/mobileapp/bsec_mail/trash/inbox
+
+reply_receiver = https://sendsafe.com.au/mobileapp/bsec_mail/reply/reply
+
+searchInInbox = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/search
+
+searchInSent = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/searchsent
+
+searchInDraft = https://sendsafe.com.au/mobileapp/bsec_mail/draft/search
+
+searchInTrash = https://sendsafe.com.au/mobileapp/bsec_mail/trash/search
+
+searchContacts = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/contacts
+
+unsubUser = https://sendsafe.com.au/mobileapp/bsec_mail/subscribe/user
+
+unblockUser = https://sendsafe.com.au/mobileapp/bsec_mail/subscribe/unblock
+
+savedrafts = https://sendsafe.com.au/mobileapp/drafts/savetodraft
+
+upload_file = https://sendsafe.com.au/compose/uploadfile1
+
+restrict_mail = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/restrict
+
+allow_mail = https://sendsafe.com.au/mobileapp/bsec_mail/inbox/allow
+
+filedownload = https://sendsafe.com.au/assets/upload/avatar/
+
+recompose = https://sendsafe.com.au/mobileapp/compose/recomposemsg/
+
+subcompose = https://sendsafe.com.au/mobileapp/compose/subcomposemsg/
+
+profile_edit=https://sendsafe.com.au/mobileapp/bsec_mail/profile/import
+
+profile_ret=https://sendsafe.com.au/mobileapp/bsec_mail/profile/view
+
+change_pass=https://sendsafe.com.au/mobileapp/bsec_mail/profile/password
+
+curr_versn=https://sendsafe.com.au/mobileapp/inbox/currentversion
+
+refer_people=https://sendsafe.com.au/mobileapp/bsec_mail/invite/email
+
+countrylist=https://sendsafe.com.au/mobileapp/bsec_mail/state/country
+
+statelist=https://sendsafe.com.au/mobileapp/bsec_mail/state/state
+
+citylist=https://sendsafe.com.au/mobileapp/bsec_mail/state/city
+
+notify_user=https://sendsafe.com.au/mobileapp/bsec_mail/profile/update
+
+notify_user_view=https://sendsafe.com.au/mobileapp/bsec_mail/profile/get
+
+import_contacts=https://sendsafe.com.au/mobileapp/bsec_mail/address/imports
+
+report_abs=https://sendsafe.com.au/mobileapp/bsec_mail/report/index
+
+forward_msg=https://sendsafe.com.au/mobileapp/forward/forwardmessage
+
+view_contacts=https://sendsafe.com.au/mobileapp/bsec_mail/address/view
+
+view_wallet=https://sendsafe.com.au/mobileapp/bsec_mail/payment/view
+
+wallet_add_bank=https://sendsafe.com.au/mobileapp/bsec_mail/payment/add
+
+wallet_transfer=https://sendsafe.com.au/mobileapp/bsec_mail/payment/send
+
+wallet_edit_detail=https://sendsafe.com.au/mobileapp/bsec_mail/payment/get
+
+wallet_update_bank=https://sendsafe.com.au/mobileapp/bsec_mail/payment/update
+
+w_trns_amt=https://sendsafe.com.au/mobileapp/bsec_mail/payment/wallet
+
+single_cont=https://sendsafe.com.au/mobileapp/bsec_mail/address/import
+
+queries= https://sendsafe.com.au/mobileapp/bsec_mail/profile/send
+
+group_filedownload=https://sendsafe.com.au/assets/upload/libraries/
+
+view_pro_mesg=https://sendsafe.com.au/mobileapp/bsec_mail/inbox/display
+
+view_pro_mesg_pin=https://sendsafe.com.au/mobileapp/bsec_mail/inbox/pin
+
+subscirption = https://sendsafe.com.au/mobileapp/bsec_mail/payment/subscription
+
+redirect = https://sendsafe.com.au/payment_bsecYLY2/paymentmobile_sendsafe?email=(EMAIL)&country=(COUNTRY)
+
+user_guide=https://sendsafe.com.au/aboutus/userguide_sendsafe_android
+
+aboutus=https://sendsafe.com.au/aboutus/contact_sendsafe_android
+
+editcontact_view=https://sendsafe.com.au/mobileapp/bsec_mail/address/get
+
+editcontact_update=https://sendsafe.com.au/mobileapp/bsec_mail/address/update
+
+contact_delete= https://sendsafe.com.au/mobileapp/bsec_mail/address/delete
+
+unblock_list= https://sendsafe.com.au/mobileapp/bsec_mail/subscribe/block
+
+folder_cr= https://sendsafe.com.au/mobileapp/bsec_mail/folder/create
+
+view_folder= https://sendsafe.com.au/mobileapp/bsec_mail/folder/view
+
+view_folder_msg= https://sendsafe.com.au/mobileapp/bsec_mail/folder/message
+
+Search_folder= https://sendsafe.com.au/mobileapp/bsec_mail/folder/search
+
+foldertotrash= https://sendsafe.com.au/mobileapp/bsec_mail/folder/trash
+
+folderToInbox= https://sendsafe.com.au/mobileapp/bsec_mail/folder/inbox
+
+InboxTofolder=https://sendsafe.com.au/mobileapp/bsec_mail/folder/folder
+
+delete_folder= https://sendsafe.com.au/mobileapp/bsec_mail/folder/delete
+
+update_folder= https://sendsafe.com.au/mobileapp/bsec_mail/folder/update
+
+getForwarddetails = https://sendsafe.com.au/mobileapp/bsec_mail/forward/message
+
+deletedraftattachment =https://sendsafe.com.au/mobileapp/bsec_mail/compose/drafts
+
+#sharmastech@gmail.com
+#deep1234

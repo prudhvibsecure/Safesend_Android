@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@android:color/white"
+    android:paddingBottom="5dp"
+    android:gravity="center" >
+
+    <TextView
+        android:id="@+id/title_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:focusable="false"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:textAppearance="@android:style/TextAppearance.Small"
+        android:textColor="@color/white"
+        android:text="@string/message"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/title_txt"
+        android:layout_marginBottom="10dp"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/ok_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/line"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:autoLink="web"
+        android:paddingBottom="10dp"
+        android:text="@string/subscriptionexpired"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ok_msg"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_upgradenow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/template_bt_red_bg"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/upgradenow"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</RelativeLayout>

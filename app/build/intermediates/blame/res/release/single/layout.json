@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\registration.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\registration.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\contactus.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\contactus.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\wallet_update_bank.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\wallet_update_bank.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\popup_subscription.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\popup_subscription.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_wallet.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\view_wallet.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_n.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\login_n.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\template_forward_attachments_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\template_forward_attachments_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\folderitem.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\folderitem.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\web_page.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\web_page.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pinrecovery.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\pinrecovery.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\wallet_payment_item_trans.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\wallet_payment_item_trans.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\add_pin_new.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\add_pin_new.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\spinner_row_nothing_selected.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\spinner_row_nothing_selected.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_item.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_spinner_dropdown_item.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\custom_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\bsecurefilters.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\bsecurefilters.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_wallet_title.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\view_wallet_title.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\bsecure.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\bsecure.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\tempalte_recyclerview.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\tempalte_recyclerview.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\change_password.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\blockunblock_popup.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\blockunblock_popup.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_items.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\list_items.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\add_contacts.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\add_contacts.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_contact.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\view_contact.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\fold_listview.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\fold_listview.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\sublevel_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\sublevel_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\report_abs.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\report_abs.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_subscription.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\layout_subscription.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\template_attachments_view_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\template_attachments_view_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\videoview.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\template_download_actiosn.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\template_download_actiosn.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\menu_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\nonet.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\nonet.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\attachmentdialog.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\attachmentdialog.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\profile_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\profile_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\rv_row_maillisting.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\rv_row_maillisting.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_navigation_drawer.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\splash.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\template_attachments_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\template_attachments_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\edit_folder.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\edit_folder.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\imageactivity.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\imageactivity.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\nav_header.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\toggle_buttons.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\toggle_buttons.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\folder.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\folder.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\expandtextview.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\expandtextview.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pdfview.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\pdfview.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\processing.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\processing.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\oldermsglayout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\oldermsglayout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\pin_layout_new.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\pin_layout_new.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\invite_people.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\invite_people.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\mailview.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\mailview.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\reply_popup.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\reply_popup.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\downloadprog_popup.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\downloadprog_popup.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\footer_process.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\footer_process.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_wallwt_bank_details.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\view_wallwt_bank_details.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\settings.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\passwordrecovery.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\passwordrecovery.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\composemail.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\composemail.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\template_folder_list.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\template_folder_list.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_download.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\layout\\view_download.xml"
+    }
+]

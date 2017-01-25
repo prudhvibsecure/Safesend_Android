@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\button_elevation.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\anim\\button_elevation.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

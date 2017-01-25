@@ -1,0 +1,7 @@
+#Tue Jan 24 10:57:33 IST 2017
+base.0=F\:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e0cad08453fbd1302a9c2616a8d1642191f4ce48
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e45d8fafca894dc99bcf5e8c272eaf3b6e48831d\\classes.dex
+base.1=F\:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e45d8fafca894dc99bcf5e8c272eaf3b6e48831d
+file.0=F\:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e0cad08453fbd1302a9c2616a8d1642191f4ce48\\classes.dex

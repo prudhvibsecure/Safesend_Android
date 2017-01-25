@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:paddingBottom="5dp" >
+
+        <TextView
+            android:id="@+id/txt_notification"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:background="@color/colorPrimary"
+            android:focusable="false"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:text="@string/notifcation_head"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+
+        <View
+            android:id="@+id/v_line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/txt"
+            android:background="@drawable/line_gradient" >
+        </View>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp" >
+
+            <RadioGroup
+                android:id="@+id/notify_grp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+
+                <RadioButton
+                    android:id="@+id/notify_yes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:button="@null"
+                    android:drawableLeft="@drawable/radio_btn_bg"
+                    android:drawablePadding="5dp"
+                    android:drawableStart="@drawable/radio_btn_bg"
+                    android:gravity="center_vertical"
+                    android:padding="5dp"
+                    android:tag="@string/yes"
+                    android:text="@string/yes"
+                    android:textColor="@color/black"
+                    android:textSize="16sp" />
+
+                <RadioButton
+                    android:id="@+id/notify_no"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:button="@null"
+                    android:checked="true"
+                    android:drawableLeft="@drawable/radio_btn_bg"
+                    android:drawablePadding="5dp"
+                    android:drawableStart="@drawable/radio_btn_bg"
+                    android:gravity="center_vertical"
+                    android:padding="5dp"
+                    android:tag="@string/no"
+                    android:text="@string/no"
+                    android:textColor="@color/black"
+                    android:textSize="16sp" />
+
+            </RadioGroup>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/notify_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="0.5dp"
+            android:background="@drawable/template_bt_red_bg"
+            android:gravity="center"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:text="@string/update"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout>

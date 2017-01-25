@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:paddingBottom="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/txt_folder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:background="@color/bs_blue"
+            android:focusable="false"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/cmttxt_folder"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_alignEnd="@+id/txt_folder"
+            android:layout_alignLeft="@+id/txt_folder"
+            android:layout_alignRight="@+id/txt_folder"
+            android:layout_alignStart="@+id/txt_folder"
+            android:layout_below="@+id/txt_folder"
+            android:layout_margin="10dp"
+            android:gravity="top"
+            android:hint="@string/update_details"
+            android:inputType="text"
+            android:maxLength="64"
+            android:background="@drawable/cmts_bg"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textColorHint="@color/gray" />
+
+        <requestFocus />
+
+        <TextView
+            android:id="@+id/bn_bu_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_alignEnd="@+id/cmttxt_folder"
+            android:layout_alignRight="@+id/cmttxt_folder"
+            android:layout_below="@+id/cmttxt_folder"
+            android:background="@drawable/template_bt_red_bg"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:layout_gravity="center"
+            android:text="@string/submit"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dip"
+    android:paddingBottom="2dp" >
+
+    <TextView
+        android:id="@+id/fl_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:background="@color/bs_blue"
+        android:focusable="false"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="@string/fl_title"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fl_title"
+        android:layout_centerInParent="true"
+        android:background="@color/white"
+        android:gravity="center" >
+
+        <EditText
+            android:id="@+id/cr_folder"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_margin="10dp"
+            android:hint="@string/update_details"
+            android:inputType="text"
+            android:singleLine="true"
+            android:background="@drawable/cmts_bg"
+            android:textColor="@color/black"
+            android:textStyle="normal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cr_folder"
+            android:layout_margin="5dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/fl_create"
+                android:layout_width="100dp"
+                android:layout_height="55dp"
+                android:layout_below="@+id/nonetmsg_update"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="10dp"
+                android:background="@drawable/template_bt_red_bg"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/creat"
+                android:textColor="@android:color/white" />
+
+            <TextView
+                android:id="@+id/fl_cancel"
+                android:layout_width="100dp"
+                android:layout_height="55dp"
+                android:layout_below="@+id/nonetmsg_update"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="10dp"
+                android:background="@drawable/template_bt_red_bg"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/cancel_btn"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

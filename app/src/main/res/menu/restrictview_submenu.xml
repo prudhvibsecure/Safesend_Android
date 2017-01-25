@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >   
+
+    <item
+        android:id="@+id/submenu_restrictview"
+        android:title="@string/restrictview"
+        android:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/submenu_allowview"
+        android:title="@string/allowview"
+        android:showAsAction="always|withText" />
+    
+</menu>

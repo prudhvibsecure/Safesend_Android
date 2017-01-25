@@ -1,0 +1,169 @@
+-injars 'F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'C:\Users\user\AppData\Local\Android\Sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class com.mail.sendsafe.SplashActivity {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.Login {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.MPayment {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.ImageActivity {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.web.VideoPlay {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.web.PdfView {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.MailPin_Act {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.Registration {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.LoginInWithPin {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.ForgetPassword {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.ChangePassword {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.ContactUs {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.PinRecovery {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.GeneratePin {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.Bsecure {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.Profile_Activity {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.InvitePeople {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.account.View_Wallet {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.account.UpdateBankDetails {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.account.TransferAmount {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.account.ViewContacts {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.account.AddContacts {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.web.UserGuide {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.web.AboutUs {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.account.Contact_Edit {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.ManageFolders {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.WebRegister {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.PromoteActivity {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.services.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.mail.sendsafe.services.GCMNotificationIntentService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

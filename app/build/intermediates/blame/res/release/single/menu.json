@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\contacts.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\contacts.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\trashlisting_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\trashlisting_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\inbox_folder.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\inbox_folder.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\forwardmail_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\forwardmail_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\compose_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\compose_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\folder_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\folder_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\folder_inbox.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\folder_inbox.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\foldercreate_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\foldercreate_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\restrictview_submenu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\restrictview_submenu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\sentlisting_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\sentlisting_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\viewmail_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\viewmail_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\navigation_drawer_items.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\navigation_drawer_items.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\inbox_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\inbox_menu.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\bank_details.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\bank_details.xml"
+    },
+    {
+        "merged": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\build\\intermediates\\res\\merged\\release\\menu\\mailslisting_menu.xml",
+        "source": "F:\\Bsec_prudhvi\\Safesend_Android\\app\\src\\main\\res\\menu\\mailslisting_menu.xml"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/v_user_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:ellipsize="marquee"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center_vertical"
+        android:padding="5dp"
+        android:singleLine="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        android:textStyle="bold|normal" />
+
+    <TextView
+        android:id="@+id/v_user_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/v_user_name"
+        android:layout_below="@+id/v_user_name"
+        android:ellipsize="marquee"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/black"
+        android:textSize="14dp" />
+
+    <ImageView
+        android:id="@+id/check_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/v_user_name"
+        android:layout_centerVertical="true"
+        android:background="@drawable/ic_drawer_trash_24dp"
+        android:visibility="gone" />
+
+</RelativeLayout>

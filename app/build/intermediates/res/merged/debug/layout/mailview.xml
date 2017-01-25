@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:id="@+id/categories_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_protectiontext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center_vertical|start"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:visibility="gone" >
+        </TextView>
+
+        <com.mail.sendsafe.animations.ReadMoreTextView
+            android:id="@+id/tv_cc_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center_vertical|start"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:visibility="gone"
+            app:trimLength="35" />
+
+        <RelativeLayout
+            android:id="@+id/ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/tv_Report"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:drawableLeft="@drawable/report"
+                android:gravity="center_vertical|start"
+                android:padding="5dp"
+                android:text="@string/reportabsue"
+                android:textColor="@color/bs_blue" >
+            </TextView>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ll1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll"
+            android:background="@color/white"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tv_validupto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:gravity="center_vertical|start"
+                android:padding="5dp"
+                android:textColor="@color/bs_dark_blue" >
+            </TextView>
+
+            <TextView
+                android:id="@+id/tv_timeleft"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:gravity="center_vertical|right"
+                android:padding="5dp"
+                android:textColor="@color/bs_dark_blue" >
+            </TextView>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_from"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:visibility="invisible" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/tv_subject"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="5dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:visibility="invisible" >
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_olderMsg"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="right"
+                android:padding="5dp"
+                android:text="@string/oldermessages"
+                android:textColor="@color/black" >
+            </TextView>
+
+            <LinearLayout
+                android:id="@+id/ll_oldermsg_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:visibility="gone" >
+            </LinearLayout>
+        </LinearLayout>
+
+        <WebView
+            android:id="@+id/tv_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:scrollbars="none"
+            android:textColor="@color/black" >
+        </WebView>
+
+        <View
+            android:id="@+id/v_line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/txt"
+            android:background="@drawable/line_gradient" >
+        </View>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_reply"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableTop="@drawable/replyarrow"
+                    android:gravity="center_vertical|start"
+                    android:padding="10dp"
+                    android:text="@string/reply"
+                    android:textColor="@color/bs_dark_blue"
+                    android:textStyle="bold"
+                    android:visibility="gone" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/tv_resend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableTop="@drawable/replyarrow"
+                    android:gravity="center_vertical|start"
+                    android:padding="10dp"
+                    android:text="@string/resen"
+                    android:textColor="@color/bs_dark_blue"
+                    android:textStyle="bold"
+                    android:visibility="gone" >
+                </TextView>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_Forward"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableTop="@drawable/replyarrow"
+                android:gravity="center_horizontal|right"
+                android:padding="11dp"
+                android:text="@string/forward"
+                android:textColor="@color/bs_dark_blue"
+                android:textStyle="bold"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_attachments_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical"
+            android:padding="10dp" >
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

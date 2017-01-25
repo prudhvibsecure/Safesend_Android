@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/sendsafe" >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/tv_pintText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/ep"
+        android:textColor="@color/bs_dark_blue"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/ed_pin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_pintText"
+        android:layout_margin="10dp"
+        android:background="@drawable/cmts_bg"
+        android:digits="1234567890"
+        android:gravity="center"
+        android:hint="@string/plesase_pn"
+        android:inputType="numberPassword"
+        android:maxLength="4"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray" />
+
+    <TextView
+        android:id="@+id/tv_forgotpin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ed_pin"
+        android:padding="15dp"
+        android:text="@string/forgotPin"
+        android:textColor="@color/bs_blue" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/tv_addaccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_forgotpin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:padding="15dp"
+        android:text="@string/addacc"
+        android:textColor="@color/bs_blue" />
+
+</RelativeLayout>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-measurement-8.4.0_b2dc012d1946cb7f6050719802fa67dbfca438ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_52a993a12d68dce8b715507a858719b5e9c68dc9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2c90efab3c1ac1a6149f69d2d5bf774d25c208e4">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e45d8fafca894dc99bcf5e8c272eaf3b6e48831d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_de55dd4ea35fea1a1b035658208e85fa8caf232d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_de55dd4ea35fea1a1b035658208e85fa8caf232d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_a8667f9a1faac6378b18d9e028589901557b3d25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\libs\jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.3_abdfdabe727f875fecfb9e8829071e8a43d07cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_16f612d141ceaacb007db359a0520a05df983e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_16f612d141ceaacb007db359a0520a05df983e27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\libs\jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a86e137575e4a45f5a9eec407f8135512e823a2">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\jsoup-1.8.3_abdfdabe727f875fecfb9e8829071e8a43d07cd8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_e0fc572e9f325c977aa00f866630ba1460f781eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.4.0_a8667f9a1faac6378b18d9e028589901557b3d25.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_52a993a12d68dce8b715507a858719b5e9c68dc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_b2dc012d1946cb7f6050719802fa67dbfca438ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_f4be1588fd1d54dc7e233e9fc069c29d9f0048a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_f4be1588fd1d54dc7e233e9fc069c29d9f0048a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-8.4.0_a3e3aa6a1ead4630e690666f9bc940287e04364f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_a3e3aa6a1ead4630e690666f9bc940287e04364f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-8.4.0_69313dde26d113a81f21d7701e2c38e3b09e1b4e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_69313dde26d113a81f21d7701e2c38e3b09e1b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c334803d3a444767968520c04a98f287bb95ee0">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e0cad08453fbd1302a9c2616a8d1642191f4ce48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_f263793a604428a5b868b88c3d6a33c5138dccf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Bsec_prudhvi\Safesend_Android\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1_f263793a604428a5b868b88c3d6a33c5138dccf8.jar" />
+    </item>
+
+</items>

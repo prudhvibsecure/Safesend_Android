@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/sendsafe" >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/tv_addPin_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_margin="5dp"
+        android:text="@string/addpin_caps"
+        android:textColor="@color/bs_dark_blue"
+        android:textSize="20sp"
+        android:textStyle="bold" >
+    </TextView>
+
+    <EditText
+        android:id="@+id/ed_pin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_addPin_txt"
+        android:layout_margin="10dp"
+        android:background="@drawable/cmts_bg"
+        android:cursorVisible="true"
+        android:digits="1234567890"
+        android:gravity="center"
+        android:hint="@string/plesase_pn"
+        android:inputType="numberPassword"
+        android:maxLength="4"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/gray" />
+
+</RelativeLayout>
